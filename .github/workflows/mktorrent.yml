@@ -5,10 +5,10 @@ on:
       - ".github/workflows/mktorrent.yml"
       
 env:
-  name: "Firefox Setup 88.0"
-  comment: "Firefox Setup 88.0 win64 by torrent-webseed-creator"
-  url: "https://download-installer.cdn.mozilla.net/pub/firefox/releases/88.0/win64/en-US/Firefox%20Setup%2088.0.exe"
-  file_name: "Firefox Setup 88.0.exe"
+  name: "pix"
+  comment: "pix by torrent-webseed-creator"
+  url: "https://drive.google.com/uc?export=download&id=142JyQ7fIZPj51mnetq6itbTAx5miIAz8"
+  file_name: "pix"
   piece_size: 19 # Check the README.md for recommended piece size
   maximize_disk_space: false # Set to true if out of disk space
   
