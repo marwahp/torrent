@@ -9,7 +9,7 @@ env:
   comment: "pix by torrent-webseed-creator"
   url: "https://drive.google.com/uc?export=download&id=142JyQ7fIZPj51mnetq6itbTAx5miIAz8"
   file_name: "pix"
-  piece_size: 32 # Check the README.md for recommended piece size
+  piece_size: 19 # Check the README.md for recommended piece size
   maximize_disk_space: false # Set to true if out of disk space
   
 jobs:
